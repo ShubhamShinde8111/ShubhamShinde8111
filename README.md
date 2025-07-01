@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubhams Shinde</h1>
 <h3 align="center">🚀 Tech Enthusiast | Developer | Lifelong Learner</h3>
-────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────
 <h4>💫 About Me:</h4>
 
 - **I'm a passionate Computer Science student and developer who loves building real-world projects in web development, Android apps, and AI/ML.**
@@ -12,7 +12,7 @@
 
 - ⚡ **I'm always eager to explore new technologies and stay up-to-date with the latest advancements in the tech industry.**
 
-────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────
 
 <h3 align="left">👨‍💻 Programming Languages:</h3>
 <p align="left">
@@ -68,7 +68,7 @@
   </a>
 </p>
 
-────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────
 ## 🧠 LeetCode
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/shubham8111?theme=dark&font=ABeeZee)
