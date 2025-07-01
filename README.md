@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Shubhams Shinde</h1>
 <h3 align="center">🚀 Tech Enthusiast | Developer | Lifelong Learner</h3>
----
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 <h4>💫 About Me:</h4>
 
 - **I'm a passionate Computer Science student and developer who loves building real-world projects in web development, Android apps, and AI/ML.**
 - 🌱 I’m currently learning, **Machine Learning and Artificial Intelligence.**
 
-- 📖 **Solved 80+ problems on Leetcode and TakeuForward.**
+- 📖 **Solved 80+ problems on LeetCode and TakeUForward.**
 
-- 💬 Ask me about **Java,Data Structures and Algorithms**
+- 💬 Ask me about **Java,Data Structures and Algorithms.**
 
 - ⚡ **I'm always eager to explore new technologies and stay up-to-date with the latest advancements in the tech industry.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
 <h3 align="left">👨‍💻 Programming Languages:</h3>
 <p align="left">
@@ -69,4 +67,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+## 🧠 LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/shubham8111?theme=dark&font=ABeeZee)
 
