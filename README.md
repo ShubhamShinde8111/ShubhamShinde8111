@@ -5,6 +5,9 @@
 
 - **I'm a passionate Computer Science student and developer who loves building real-world projects in web development, Android apps, and AI/ML.**
 - 🌱 I’m currently learning, **Machine Learning and Artificial Intelligence.**
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500"/>
+</p>
 
 - 📖 **Solved 99+ problems on LeetCode and TakeUForward.**
 
