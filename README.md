@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubhams Shinde</h1>
 <h3 align="center">🚀 Tech Enthusiast | Developer | Lifelong Learner</h3>
 ────────────────────────────────────────────────────────────────────────
-<h4>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=About+Me%3A)](https://git.io/typing-svg)</h4>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=About+Me%3A)](https://git.io/typing-svg)
 
 - **I'm a passionate Computer Science student and developer who loves building real-world projects in web development, Android apps, and AI/ML.**
 - 🌱 I’m currently learning, **Machine Learning and Artificial Intelligence.**
