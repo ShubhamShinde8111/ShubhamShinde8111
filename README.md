@@ -6,7 +6,7 @@
 - **I'm a passionate Computer Science student and developer who loves building real-world projects in web development, Android apps, and AI/ML.**
 - 🌱 I’m currently learning, **Machine Learning and Artificial Intelligence.**
 
-- 📖 **Solved 99+ problems on LeetCode and TakeUForward.**
+- 📖 **Solved 190+ problems on LeetCode and TakeUForward.**
 
 - 💬 Ask me about **Java,Data Structures and Algorithms.**
 
